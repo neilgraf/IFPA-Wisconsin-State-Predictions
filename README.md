@@ -2,7 +2,8 @@ IFPA Wisconsin State Predictions
 
 This project provides a bar chart visualization of the predicted probabilities for competitors to win the Wisconsin State Pinball Championship. It aims to present statistical insights into pinball players' performance, helping enthusiasts and participants gauge their chances in the tournament.
 
-Features
+
+Features:
 
 Bar chart visualization of win probabilities.
 
@@ -10,7 +11,8 @@ Clear display of competitor names and associated win probabilities.
 
 Built using modern web technologies.
 
-Technologies Used
+
+Technologies Used:
 
 HTML/CSS for website structure and styling.
 
@@ -18,7 +20,8 @@ JavaScript for dynamic rendering of data.
 
 Chart.js (or other data visualization library) for creating the bar chart.
 
-How to Use
+
+How to Use:
 
 Visit the live website to view the predictions.
 
@@ -26,7 +29,8 @@ Hover over bars to see the specific probability values for each player.
 
 Check back for updates as new data is added.
 
-Setup Instructions
+
+Setup Instructions:
 
 Clone the repository:
 
@@ -38,7 +42,8 @@ cd IFPA-Wisconsin-State-Predictions
 
 Open the index.html file in a web browser to view the website.
 
-Future Improvements
+
+Future Improvements:
 
 Automate data updates with a connection to a live data source.
 
